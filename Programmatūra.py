@@ -44,6 +44,7 @@ if a==1:
         s=int(input('Jā- 1, Nē- 2 - '))
         if s==1:
             print(vk[c])
+            print(' ')
         elif s==2:
             print(' ')                
 elif a==2:
@@ -55,6 +56,7 @@ elif a==2:
         s=int(input('Jā- 1, Nē- 2 - '))
         if s==1:
             print(ed[c])
+            print(' ')
         elif s==2:
             print(' ')          
       
@@ -67,6 +69,7 @@ elif a==3:
         s=int(input('Jā- 1, Nē- 2 - '))
         if s==1:
             print(sm[c])
+            print(' ')
         elif s==2:
             print(' ')          
          
@@ -79,10 +82,10 @@ elif a==4:
         s=int(input('Jā 1, Nē 2 - '))
         if s==1:
             print(vpk[c])
+            print(' ')
         elif s==2:
-            print(' ')          
-           
-
+            print(' ')         
+print('Paldies par programmatūras izmantošanu! Uz redzēšanos!')
     
     
     
